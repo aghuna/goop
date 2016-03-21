@@ -1,7 +1,7 @@
 package goop_test
 
 import (
-	"github.com/nitrous-io/goop/goop"
+	"github.com/aghuna/goop/goop"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

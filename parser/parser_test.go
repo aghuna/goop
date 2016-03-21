@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/nitrous-io/goop/parser"
+	"github.com/aghuna/goop/parser"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

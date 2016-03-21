@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/nitrous-io/goop/pkg/env"
+	"github.com/aghuna/goop/pkg/env"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

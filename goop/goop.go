@@ -11,9 +11,9 @@ import (
 
 	"golang.org/x/tools/go/vcs"
 
-	"github.com/nitrous-io/goop/colors"
-	"github.com/nitrous-io/goop/parser"
-	"github.com/nitrous-io/goop/pkg/env"
+	"github.com/aghuna/goop/colors"
+	"github.com/aghuna/goop/parser"
+	"github.com/aghuna/goop/pkg/env"
 )
 
 type UnsupportedVCSError struct {
